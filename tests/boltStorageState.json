@@ -1,0 +1,83 @@
+{
+  "cookies": [
+    {
+      "name": "_ga",
+      "value": "GA1.1.1302201801.1757072910",
+      "domain": ".playrealbrokerage.com",
+      "path": "/",
+      "expires": 1791632967.422396,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jwtToken",
+      "value": "ad4283964e1ad147d634bd56521f8af7b8f86521eba98b1742d0748ab13ec7292bef9671e763c79f0cde2820f733983a12254228cdea93ca7e54407b69765389cf4947ae6a0db2cba374f47a0c8b98d0f8baf76d1c639fdf89dcc2f4d349af18675a43a2a558315e6fa3a66e86ac1a85cca3da5f5e56d11118b9cd3cfd3a5ed766e6667c196f5a94a9a5e0df7c3c2096dcd996d62dff4193796237d17f06d28b484ae9873f882384ca43786ca82078a606008c00b5253ee9509d6f672bfb10eb3ef51bc1a02a5b47b7c98c4c1afa4272f9c67d3a1cd231e1bd5d4cc265e0c1b49dfd546a3d22b260ed0bc4947e158eaf127e30da9a893c14ddd1508ed3abeda8f03826fb69e38b857125a8ab66f2894808eef65476d16f0b32ff24dfd6c1ad76180c43b06094bf8391b6894736a0978de61548bba548881b31088ba7e153f00c254e7553677da623b1f03992204758c07efda9a9bab051cee790079a871051594db66e380f05d8bc5418129b5a7b49fd4e3e8e41d44d3e4bfca82368bdcc5aec533c0ac398f2d23123b948938dded4c8fd7c9201cf65eb72308ec8e06af7a0c8d0d0a9705438583896084eef31e0d2eabdf87dce83017bfc1fa3587ed6304ad0",
+      "domain": "bolt.playrealbrokerage.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NID",
+      "value": "525=oZ1tB5gNfOH9-nlRYLlGZzzbHH01u3s_UJKsD_Gew2zY08Zrf2VnvYAGYS0SggKWANvk38PFc2TBD_KS57IH-J7z157fiGE70q7vT7jfCqp_L7oYkXltlwXnQr4_nsR2NyeyVwYjCLK5cZ7Bf61YqIPir9eyEmTHLwVH_hwtdA83OGUgJ4kERzLdnZWwwmkC",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1772884128.433632,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "amp_bcdcf1",
+      "value": "uN3DxPv1zu6bGgvNceow2W.c2FoaWxhZ2VudEB0aGVyZWFsYnJva2VyYWdlLmNvbQ==..1j4cr9ol6.1j4crbja0.0.4.4",
+      "domain": ".playrealbrokerage.com",
+      "path": "/",
+      "expires": 1788608969,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_WC4RC203WE",
+      "value": "GS2.1.s1757072909$o1$g1$t1757072971$j58$l0$h0",
+      "domain": ".playrealbrokerage.com",
+      "path": "/",
+      "expires": 1791632971.099887,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s",
+      "value": "rum=0&expire=1757073868998",
+      "domain": "bolt.playrealbrokerage.com",
+      "path": "/",
+      "expires": 1757073876,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://bolt.playrealbrokerage.com",
+      "localStorage": [
+        {
+          "name": "MENU_STATUS",
+          "value": "YES"
+        },
+        {
+          "name": "amplitude_unsent_identify_bcdcf17b28837c56ef10fc3ef1179ec7",
+          "value": "[]"
+        },
+        {
+          "name": "amplitude_unsent_bcdcf17b28837c56ef10fc3ef1179ec7",
+          "value": "[]"
+        }
+      ]
+    }
+  ]
+}
