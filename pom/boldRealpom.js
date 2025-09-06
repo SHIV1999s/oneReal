@@ -2,7 +2,6 @@ export class boldRealpom {
     constructor(page, expect) {
         this.page = page;
         this.expect = expect;
-
         this.url = 'https://bolt.playrealbrokerage.com/';
         this.transaction = page.locator('text=KJ1-T94-26Y-23O');
         this.details = page.locator('[class="relative"] [class*="px-4 flex flex-row"]').locator('text=Details');
